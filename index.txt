@@ -1,5 +1,0 @@
-Hello World
-
-This is Git Repository
-
-Date 12-11-2023
